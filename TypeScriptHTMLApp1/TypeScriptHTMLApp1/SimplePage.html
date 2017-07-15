@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>A Simple Demo</title>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+
+    <script src="require.js"></script>
+    <script src="Load.js"></script>
+
+    <script type="text/javascript">
+        function clickBtn() {
+            //$("#txtDemo").click(TS.Learn.Chapter1.DisplayDate());
+            var pp = new TS.Learn.Chapter1("qwe");
+            pp.doMethod();
+            //$("#txtDemo").click(TS.Learn.Chapter1.);
+        }
+
+    </script>
+</head>
+<body>
+    <h1>My First Javascript</h1>
+    <p id="txtDemo">This is a paragraph.</p>
+ 
+  
+    <button type="button" id="btnGo" onclick="clickBtn();" >Display Date</button>
+
+    <script src="SimplePage.js"></script>
+    <script src="Load.js"></script>
+   
+</body>
+</html>

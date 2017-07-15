@@ -1,0 +1,4 @@
+E:\学习\src\TypeScript学习\TypeScriptHTMLApp1\TypeScriptHTMLApp1\testts.js
+E:\学习\src\TypeScript学习\TypeScriptHTMLApp1\TypeScriptHTMLApp1\Load.js
+E:\学习\src\TypeScript学习\TypeScriptHTMLApp1\TypeScriptHTMLApp1\SimplePage.js
+E:\学习\src\TypeScript学习\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js
